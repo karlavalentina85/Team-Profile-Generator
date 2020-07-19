@@ -1,0 +1,23 @@
+
+body {
+    background-color: lightsteelblue;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.container-fluid {
+    background-color: black;
+}
+
+.card {
+    margin-top: 2rem;
+}
+.card-header {
+    background-color: silver;
+       
+}
+.card-body{
+    background-color: black
+}
+.list
